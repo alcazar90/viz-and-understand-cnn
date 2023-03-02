@@ -1,2 +1,10 @@
-# viz-and-understand-cnn
- A dissection notebook of the different techniques for visualizing and understanding convolutional neural networks. Based on the methods characterized by Justin Johnson in the video "Lecture 14: Visualizing and Understanding", Michigan Computer Vision class 2021 (https://youtu.be/G1hGwHVykDU).
+# Visualizing and Understanding CNN
+
+![](./assets/emb_space_imagenet_sketch_2000px.png)
+
+<p align="center">
+<img src="assets/emb_space_imagenet_sketch_2000px.png" width="600" height="600" alt="2D Embedding Space Viz of Imagenet Sketch dataset">
+</p>
+
+
+
